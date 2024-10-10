@@ -33,5 +33,8 @@ For any issues or feature requests, feel free to open an issue or contact me!
 
 This format adds an overview of your plugin with appropriate emojis and a section to showcase the gallery image screenshot. Make sure to replace the screenshot.png path with the actual location of your image file in your repository.
 
-📞Contact
-![LinkedIn](Screenshot_1.png)
+## 📞 Contact Me
+
+Feel free to reach out or connect with me on LinkedIn!
+
+[![LinkedIn](Screenshot_1.png)](https://www.linkedin.com/in/goutam-kumar-2b8215274){:height="50px"}
