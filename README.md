@@ -1,1 +1,1 @@
-![Here is scrennshot](path_to_image/Screenshot_6)
+![Here is scrennshot](Screenshot_6)
