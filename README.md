@@ -37,4 +37,6 @@ This format adds an overview of your plugin with appropriate emojis and a sectio
 
 Feel free to reach out or connect with me on LinkedIn!
 
-[![LinkedIn](Screenshot_1.png)](https://www.linkedin.com/in/goutam-kumar-2b8215274){:height="50px"}
+<a href="https://www.linkedin.com/in/goutam-kumar-2b8215274">
+    <img src="Screenshot_1.png" alt="LinkedIn" height="40px" />
+</a>
